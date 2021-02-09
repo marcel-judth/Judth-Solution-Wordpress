@@ -1,0 +1,12 @@
+[26-Dec-2020 06:11:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/customer/www/judthsolutions.com/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/judthsolutions.com/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[29-Dec-2020 21:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/judthsolutions.com/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/judthsolutions.com/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[29-Jan-2021 13:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/customer/www/judthsolutions.com/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/customer/www/judthsolutions.com/public_html/wp-content/themes/twentyseventeen/404.php on line 13
